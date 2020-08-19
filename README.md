@@ -1,2 +1,2 @@
 # java
-Java projects
+Java projects (Academic and personal curiosity codes)
